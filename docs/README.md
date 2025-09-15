@@ -93,13 +93,14 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 > * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
 > * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
 > * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
-> * **Personas** - relacione as personas identificadas no seu projeto. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução.
 
 ## Etapa de Definição
 
 ### Personas
 
 **✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
+
+![Exemplo de proposta de valor](images/exemplo-persona.png)
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -138,7 +139,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 **✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
 
-##### Proposta para Persona XPTO ⚠️ EXEMPLO ⚠️
+##### Proposta de valor para Persona XPTO ⚠️ EXEMPLO ⚠️
 
 ![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
 
